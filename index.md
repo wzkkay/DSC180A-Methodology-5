@@ -3,7 +3,7 @@ A18 Nolan Sheffield
 
 ---
 What is the most interesting topic covered in your domain this quarter?  
----
+-
 The most interesting topic is smart contract build on blockchain platform Ethereum. It is interesting for me to see a transaction system that work according to principles directly written into code without human supervising.  
 
 ---
